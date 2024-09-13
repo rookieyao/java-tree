@@ -9,5 +9,4 @@ public class JavaTreeApplication {
     public static void main(String[] args) {
         SpringApplication.run(JavaTreeApplication.class, args);
     }
-
 }
